@@ -1,7 +1,0 @@
-age = input("What is your current age?:")
-age_int = int(age)
-days = ((90 - age_int) * 365)
-weeks = ((90 - age_int) * 52)
-months = ((90 - age_int) * 12)
-result = (f"You have {days} days, {weeks} weeks, and {months} months left until you are 90.")
-print(result)
