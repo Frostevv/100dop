@@ -1,6 +1,6 @@
 print("Welcome to the tip calculator.")
 bill = input("What was the total bill?")
-tip = input("What percent tip would you like to leave? 10, 12, or 15.")
+tip = input("What percent tip would you like to leave?.")
 people = input("How many people are splitting the bill?")
 flt_bill = float(bill)
 flt_tip = float(tip)
